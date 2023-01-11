@@ -6,9 +6,6 @@ import javax.swing.JFrame;
 import java.awt.Color;
 import javax.swing.JButton;
 import java.awt.BorderLayout;
-import java.awt.event.ActionListener;
-import java.awt.event.ActionEvent;
-import javax.swing.SwingConstants;
 import javax.swing.JCheckBox;
 
 public class Ejemplo {
