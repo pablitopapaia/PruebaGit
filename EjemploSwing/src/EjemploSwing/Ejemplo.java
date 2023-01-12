@@ -12,7 +12,9 @@ public class Ejemplo {
 
 	private JFrame frame;
 	//Hola que tal
+	//Adios
 	/**
+	 *
 	 * Launch the application.
 	 */
 	public static void main(String[] args) {
