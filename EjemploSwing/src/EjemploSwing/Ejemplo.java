@@ -11,7 +11,7 @@ import javax.swing.JCheckBox;
 public class Ejemplo {
 
 	private JFrame frame;
-
+	//Hola que tal
 	/**
 	 * Launch the application.
 	 */
