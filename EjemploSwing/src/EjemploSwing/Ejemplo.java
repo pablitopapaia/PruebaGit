@@ -42,7 +42,7 @@ public class Ejemplo {
 		frame = new JFrame();
 		frame.getContentPane().setBackground(new Color(153, 102, 255));
 		
-		JCheckBox chckbxNewCheckBox = new JCheckBox("Opcion1");
+		JCheckBox chckbxNewCheckBox = new JCheckBox("Opcion2");
 		chckbxNewCheckBox.setBackground(new Color(51, 255, 0));
 		frame.getContentPane().add(chckbxNewCheckBox, BorderLayout.WEST);
 		
